@@ -21,7 +21,7 @@
     <os-gateway:lookups id="gatewayLookups">
         <os-gateway:lookup gateway-name="DE" host="afc300bc516af11ea94290aead39c9e4-1969246853.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
 
-        <os-gateway:lookup gateway-name="US" host="a683910ea16b411ea987b0656a87ef48-1346020499.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
+        <os-gateway:lookup gateway-name="US" host="a0c7d8da816b711ea987b0656a87ef48-730749413.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
         <!--<os-gateway:lookup gateway-name="DE" host="localhost" discovery-port="10769" communication-port="8000"/>
         <os-gateway:lookup gateway-name="RU" host="localhost" discovery-port="10770" communication-port="9000"/>-->
     </os-gateway:lookups>
