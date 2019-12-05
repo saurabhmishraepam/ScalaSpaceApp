@@ -19,7 +19,7 @@
     </os-gateway:sink>
 
     <os-gateway:lookups id="gatewayLookups">
-        <os-gateway:lookup gateway-name="DE" host="aa9841fab16b811ea988302c7a346453-1979589350.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
+        <os-gateway:lookup gateway-name="DE" host="a3641a4ad172b11ea94290aead39c9e4-1568319690.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
 
         <os-gateway:lookup gateway-name="US" host="a0c7d8da816b711ea987b0656a87ef48-730749413.us-east-2.elb.amazonaws.com" discovery-port="4174" communication-port="8200"/>
     </os-gateway:lookups>
